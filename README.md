@@ -1,5 +1,3 @@
-A machine learning pipeline that predicts NBA game outcomes using team strength modeling, rolling performance metrics, and probabilistic forecasting.
-
 
 Features:
 
